@@ -1,0 +1,2 @@
+(function($){"use strict";$(".zoom-gallery").magnificPopup({delegate:"a",type:"image",closeOnContentClick:!1,closeBtnInside:!1,mainClass:"mfp-with-zoom mfp-img-mobile",image:{verticalFit:!0,titleSrc:function(item){return item.el.attr("title")+" &middot;"}},gallery:{enabled:!0},zoom:{enabled:!0,duration:300,opener:function(element){return element.find("img")}}})})(jQuery);
+//# sourceMappingURL=/cdn/shop/t/2/assets/zoom-gallery.js.map?v=94072446572393424951572929110
