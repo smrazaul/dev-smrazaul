@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ps-bigdeal.myshopify.com/blogs/shoes.atom</id>
+  <link rel="alternate" type="text/html" href="https://ps-bigdeal.myshopify.com/blogs/shoes"/>
+  <link rel="self" type="application/atom+xml" href="https://ps-bigdeal.myshopify.com/blogs/shoes.atom"/>
+  <title>Bigdeal Responsive shopify theme - shoes</title>
+  <updated>2019-11-11T05:52:00-05:00</updated>
+  <author>
+    <name>Bigdeal Responsive shopify theme</name>
+  </author>
+  <entry>
+    <id>https://ps-bigdeal.myshopify.com/blogs/shoes/sometimes-on-purpose</id>
+    <published>2019-11-11T05:52:00-05:00</published>
+    <updated>2019-11-11T05:52:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ps-bigdeal.myshopify.com/blogs/shoes/sometimes-on-purpose"/>
+    <title>SOMETIMES ON PURPOSE</title>
+    <author>
+      <name>ps-Bigdeal Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Nulla quam turpis, commodo et placerat eu, mollis ut odio. Donec pellentesque egestas consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc at urna dolor. Mauris odio nisi, rhoncus ac justo eget, lacinia iaculis lectus. Pellentesque id dapibus justo. Nunc venenatis non odio sed luctus. Etiam sit amet elit massa.</p>
+<p>Nulla quam turpis, commodo et placerat eu, mollis ut odio. Donec pellentesque egestas consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc at urna dolor. Mauris odio nisi, rhoncus ac justo eget, lacinia iaculis lectus. Pellentesque id dapibus justo. Nunc venenatis non odio sed luctus. Etiam sit amet elit massa.</p>
+<p>Phasellus quis lorem eros. Aliquam non tincidunt nibh. Nulla quis interdum neque. Mauris volutpat neque eu nunc ornare ullamcorper. Sed neque velit, lobortis eget tellus in, pellentesque ornare nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas rutrum nisi non nibh egestas lacinia. Cras ut tellus sit amet lacus consequat dictum nec id sapien. Ut pellentesque ac ex ut elementum. Morbi mollis volutpat neque eu volutpat.</p>
+<p>Donec rhoncus massa quis nibh imperdiet dictum. Vestibulum id est sit amet felis fringilla bibendum at at leo. Proin molestie ac nisi eu laoreet. Integer faucibus enim nec ullamcorper tempor. Aenean nec felis dui. Integer tristique odio mi, in volutpat metus posuere eu. Aenean suscipit ipsum nunc, id volutpat lorem hendrerit ac. Sed id elit quam. In ac mauris arcu. Praesent eget lectus sit amet diam vestibulum varius. Suspendisse dignissim mattis leo, nec facilisis erat tempor quis. Vestibulum eu vestibulum ex. Maecenas luctus orci sed blandit fermentum. In vulputate eu metus a faucibus. Suspendisse feugiat condimentum congue.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://ps-bigdeal.myshopify.com/blogs/shoes/you-how-all-this-1</id>
+    <published>2019-11-11T05:50:00-05:00</published>
+    <updated>2019-11-11T05:51:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ps-bigdeal.myshopify.com/blogs/shoes/you-how-all-this-1"/>
+    <title>You How All This</title>
+    <author>
+      <name>ps-Bigdeal Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Nulla quam turpis, commodo et placerat eu, mollis ut odio. Donec pellentesque egestas consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc at urna dolor. Mauris odio nisi, rhoncus ac justo eget, lacinia iaculis lectus. Pellentesque id dapibus justo. Nunc venenatis non odio sed luctus. Etiam sit amet elit massa.</p>
+<p>Nulla quam turpis, commodo et placerat eu, mollis ut odio. Donec pellentesque egestas consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc at urna dolor. Mauris odio nisi, rhoncus ac justo eget, lacinia iaculis lectus. Pellentesque id dapibus justo. Nunc venenatis non odio sed luctus. Etiam sit amet elit massa.</p>
+<p>Phasellus quis lorem eros. Aliquam non tincidunt nibh. Nulla quis interdum neque. Mauris volutpat neque eu nunc ornare ullamcorper. Sed neque velit, lobortis eget tellus in, pellentesque ornare nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas rutrum nisi non nibh egestas lacinia. Cras ut tellus sit amet lacus consequat dictum nec id sapien. Ut pellentesque ac ex ut elementum. Morbi mollis volutpat neque eu volutpat.</p>
+<p>Donec rhoncus massa quis nibh imperdiet dictum. Vestibulum id est sit amet felis fringilla bibendum at at leo. Proin molestie ac nisi eu laoreet. Integer faucibus enim nec ullamcorper tempor. Aenean nec felis dui. Integer tristique odio mi, in volutpat metus posuere eu. Aenean suscipit ipsum nunc, id volutpat lorem hendrerit ac. Sed id elit quam. In ac mauris arcu. Praesent eget lectus sit amet diam vestibulum varius. Suspendisse dignissim mattis leo, nec facilisis erat tempor quis. Vestibulum eu vestibulum ex. Maecenas luctus orci sed blandit fermentum. In vulputate eu metus a faucibus. Suspendisse feugiat condimentum congue.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://ps-bigdeal.myshopify.com/blogs/shoes/you-how-all-this</id>
+    <published>2019-11-11T05:50:00-05:00</published>
+    <updated>2019-11-11T05:51:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ps-bigdeal.myshopify.com/blogs/shoes/you-how-all-this"/>
+    <title>You How All This</title>
+    <author>
+      <name>ps-Bigdeal Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[  <p>Nulla quam turpis, commodo et placerat eu, mollis ut odio. Donec pellentesque egestas consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc at urna dolor. Mauris odio nisi, rhoncus ac justo eget, lacinia iaculis lectus. Pellentesque id dapibus justo. Nunc venenatis non odio sed luctus. Etiam sit amet elit massa.</p>
+<p>Nulla quam turpis, commodo et placerat eu, mollis ut odio. Donec pellentesque egestas consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc at urna dolor. Mauris odio nisi, rhoncus ac justo eget, lacinia iaculis lectus. Pellentesque id dapibus justo. Nunc venenatis non odio sed luctus. Etiam sit amet elit massa.</p>
+<p>Phasellus quis lorem eros. Aliquam non tincidunt nibh. Nulla quis interdum neque. Mauris volutpat neque eu nunc ornare ullamcorper. Sed neque velit, lobortis eget tellus in, pellentesque ornare nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas rutrum nisi non nibh egestas lacinia. Cras ut tellus sit amet lacus consequat dictum nec id sapien. Ut pellentesque ac ex ut elementum. Morbi mollis volutpat neque eu volutpat.</p>
+<p>Donec rhoncus massa quis nibh imperdiet dictum. Vestibulum id est sit amet felis fringilla bibendum at at leo. Proin molestie ac nisi eu laoreet. Integer faucibus enim nec ullamcorper tempor. Aenean nec felis dui. Integer tristique odio mi, in volutpat metus posuere eu. Aenean suscipit ipsum nunc, id volutpat lorem hendrerit ac. Sed id elit quam. In ac mauris arcu. Praesent eget lectus sit amet diam vestibulum varius. Suspendisse dignissim mattis leo, nec facilisis erat tempor quis. Vestibulum eu vestibulum ex. Maecenas luctus orci sed blandit fermentum. In vulputate eu metus a faucibus. Suspendisse feugiat condimentum congue.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://ps-bigdeal.myshopify.com/blogs/shoes/shoes-blog</id>
+    <published>2019-11-11T05:44:00-05:00</published>
+    <updated>2019-11-11T05:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ps-bigdeal.myshopify.com/blogs/shoes/shoes-blog"/>
+    <title>Latest News Post</title>
+    <author>
+      <name>ps-Bigdeal Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[  <p>Nulla quam turpis, commodo et placerat eu, mollis ut odio. Donec pellentesque egestas consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc at urna dolor. Mauris odio nisi, rhoncus ac justo eget, lacinia iaculis lectus. Pellentesque id dapibus justo. Nunc venenatis non odio sed luctus. Etiam sit amet elit massa.</p>
+<p>Nulla quam turpis, commodo et placerat eu, mollis ut odio. Donec pellentesque egestas consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc at urna dolor. Mauris odio nisi, rhoncus ac justo eget, lacinia iaculis lectus. Pellentesque id dapibus justo. Nunc venenatis non odio sed luctus. Etiam sit amet elit massa.</p>
+<p>Phasellus quis lorem eros. Aliquam non tincidunt nibh. Nulla quis interdum neque. Mauris volutpat neque eu nunc ornare ullamcorper. Sed neque velit, lobortis eget tellus in, pellentesque ornare nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas rutrum nisi non nibh egestas lacinia. Cras ut tellus sit amet lacus consequat dictum nec id sapien. Ut pellentesque ac ex ut elementum. Morbi mollis volutpat neque eu volutpat.</p>
+<p>Donec rhoncus massa quis nibh imperdiet dictum. Vestibulum id est sit amet felis fringilla bibendum at at leo. Proin molestie ac nisi eu laoreet. Integer faucibus enim nec ullamcorper tempor. Aenean nec felis dui. Integer tristique odio mi, in volutpat metus posuere eu. Aenean suscipit ipsum nunc, id volutpat lorem hendrerit ac. Sed id elit quam. In ac mauris arcu. Praesent eget lectus sit amet diam vestibulum varius. Suspendisse dignissim mattis leo, nec facilisis erat tempor quis. Vestibulum eu vestibulum ex. Maecenas luctus orci sed blandit fermentum. In vulputate eu metus a faucibus. Suspendisse feugiat condimentum congue.</p>]]>
+    </content>
+  </entry>
+</feed>
